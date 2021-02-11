@@ -2,6 +2,17 @@
  * YOUR CODE BELOW *
  ******************/
 
+let myFirstName = "ruth";
+let myLastName = "Moyano";
+let myBestFriend = "Mari";
+let mySentence = "Today is a rainy day!"
+let myFavoriteNum = 3;
+let myMentalAge = 28;
+let myHeight = 60;
+let myFavoriteYear = 2019;
+let mySum = 3 + 1918 + 24 + 1;
+let myProduct = 232 * 43 / 2 + 4;
+let myHeightAndAge = 67 + 21;
 
 
 
